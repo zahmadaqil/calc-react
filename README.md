@@ -1,5 +1,3 @@
-# calc-react
-Calculator React
 # Calculator App Using React
 
 A simple calculator app built using React by following [Web Dev Simplified's tutorial](https://www.youtube.com/watch?v=DgRrrOt0Vr8).
@@ -7,10 +5,6 @@ A simple calculator app built using React by following [Web Dev Simplified's tut
 ## Overview
 
 This project is a direct copy of the tutorial to learn React.
-
-## Demo
-
-[Live Demo](#) *(Replace with your live link if available)*
 
 ## Installation
 
